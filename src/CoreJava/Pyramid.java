@@ -6,6 +6,8 @@ public class Pyramid {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Test");
+		System.out.println("Test1");
+		
 
 	}
 
